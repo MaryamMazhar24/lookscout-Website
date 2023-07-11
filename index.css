@@ -372,7 +372,7 @@ header{
     cursor: pointer;
     font-size: 12px;
 }
-@media (max-width:768px)
+@media (min-width:768px)
 {
     .Features{
         display: flex;
@@ -937,7 +937,7 @@ header{
     display: flex;
     flex-wrap: wrap;
 }
-@media (max-width:768px)
+@media (min-width:768px)
 {
     .blog-flex{
         display: flex;
@@ -1165,7 +1165,7 @@ header{
     padding-top: 2px;
     padding-bottom: 2px;
 }
-@media (max-width:768px){
+@media (min-width:768px){
     .email-content{
         display: flex;
         flex-direction: column;
@@ -1326,7 +1326,7 @@ header{
     color: white;
     padding-top: 15px;
 }
-@media (Max-width:768px)
+@media (min-width:768px)
 {
     .footer-content{
         display: grid;
